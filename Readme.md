@@ -19,11 +19,11 @@ Please find the learning resources of Java, JavaScript, PHP and Ruby:
 
 <a name="javaScript"/>
 ## JavaScript
- Beginner
- Intermediate
- Advanced
- Best Practices
- Others
+1. Beginner
+2. Intermediate
+3. Advanced
+4. Best Practices
+5. Others
  * [A Baseline for Front-End [JS] Developers, 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015)
 
 <a name="php"/>
