@@ -4,13 +4,12 @@ Please find the learning resources of Java, JavaScript, PHP and Ruby:
 
 ##Table of contents
 
-* [General articles](#generalArticles)
+* [General articles](#general-articles)
 * Java
 * JavaScript
 * PHP
 * Ruby
 
-<a name="generalArticles"/>
 ## General articles
 
 ## Java
