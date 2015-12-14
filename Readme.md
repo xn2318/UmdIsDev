@@ -1,6 +1,6 @@
 #UMD IS Developers
 
-Please find the learning resources of Java, JavaScript, PHP and Ruby:
+Please find the learning resources of Java, JavaScript, PHP, Ruby and others:
 
 ##Table of contents
 
@@ -12,7 +12,9 @@ Please find the learning resources of Java, JavaScript, PHP and Ruby:
 
 <a name="generalArticles"/>
 ## General articles
+* [Markdown Basics - Writing on Github](https://help.github.com/articles/markdown-basics/)
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Ruby on Rails vs PHP – The good, the bad](http://www.leonardteo.com/2012/07/ruby-on-rails-vs-php-the-good-the-bad/)
 
 <a name="java"/>
 ## Java
